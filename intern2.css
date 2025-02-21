@@ -1,0 +1,121 @@
+.navbar{
+	padding-right:15px;
+	padding-left:15px;
+	font-family:cursive;
+}
+.navdiv{
+	display:flex;
+	align-items:center;
+	justify-content:space-between;
+}
+.logo{
+	font-size:70px; font-weight: 600; color:black;
+	margin-left:25px;
+}
+li{
+	display:inline-block;
+}
+li a{
+	color:red;
+	font-size:20px;margin-right:170px;
+	font-weight:bold;
+}
+#style{
+	background-image:url('https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/695f3955463165.598511886d48b.jpg');
+	background-repeat:no-repeat;
+	background-size:100%;
+}
+.hrx{
+	margin-top:50px;
+	box-sizing:border-box;
+}
+.det{
+	text-align:center;
+}
+#size{
+	display:inline-block;
+	text-align:right;
+}
+.hr{
+	color:red;
+}
+#p{
+	font-size:20px;
+	font-weight:initial;
+}
+#additional{
+	justify-content:space-between;
+	display:flex;
+	flex-basis:24%;
+}
+.buy{
+	background-color:#4CAF50;
+	color:#fff;
+	padding:10px ;
+	border:none;
+	border-radius:5px;
+	cursor:pointer;
+	text-align:center;
+	border:1px solid green;
+	width:50%;
+	font-weight:bold;
+	font-size:20px;
+}
+.cart{
+	background-color:yellow;
+	color:black;
+	padding:10px;
+	width:50%;
+	border:1px solid yellow;
+	border-radius:5px;
+	font-size:20px;
+	font-weight:bold;
+	margin-top:20px;
+}
+.links{
+	display:inline-block;
+	padding:10px;
+}
+#rp{
+	display:inline-block;
+	padding:30px;
+	justify-content:space-between;
+	margin-bottom:40px;
+	font-size:100px;
+}
+.star{
+	color:orange;
+	font-size:40px;
+}
+.rev{
+	width:50%;
+	font-size:20px;
+	margin-top:35px;
+}
+.newsletter-signup{
+	font-size:18px;
+	font-weight:bold;
+	margin-bottom:20px;
+}
+.foot{
+	background-color: #222;
+	color:white;
+	padding:10px;
+	margin-top:20px;
+	text-align:center;
+	justify-content:space-between;
+}
+.sociallinks{
+	color:yellow;
+	margin:0 10px;
+	text-decoration:none;
+	justify-content:space-between;
+
+}
+.hritik img{
+	background-color:black;
+	width:50%;
+text-align:left;
+width:100;
+height:200;
+}
